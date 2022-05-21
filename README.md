@@ -23,3 +23,4 @@ fish_add_path /usr/local/opt/node@16/bin
 
 * [https://nodejs.org/](https://nodejs.org/)
 * [https://nodejs.dev/](https://nodejs.dev/)
+* [Node.js 18 新特性解读](https://zhuanlan.zhihu.com/p/502951532)
