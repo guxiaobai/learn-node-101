@@ -30,7 +30,7 @@
 
 名称|说明|备注
 ---|---|---
-[body-parser](https://github.com/expressjs/body-parser) | 解析 POST |
+[body-parser](./body-parser/) | 解析 POST |
 [cookie-parser](https://github.com/expressjs/cookie-parser) | 解析 Cookie
 [morgan](https://github.com/expressjs/morgan) | 日志处理
 [express-session](https://github.com/expressjs/session) | Session 管理 | [connect-redis](https://github.com/tj/connect-redis)
