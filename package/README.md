@@ -8,9 +8,7 @@
 
 名称|说明|备注
 ---|---|---
-[cross-env](https://github.com/kentcdodds/cross-env) | 跨平台环境变量设置
 [nodemon](https://github.com/remy/nodemon) | 动重启 Node 应用
-[dotenv](https://github.com/motdotla/dotenv) | 配置文件管理
 [http-server](https://github.com/http-party/http-server)、[serve](https://github.com/vercel/serve) | 静态 Web 服务器
 [mysql](https://github.com/mysqljs/mysql)、[mysql2](https://github.com/sidorares/node-mysql2) | MySQL 
 [redis](https://github.com/redis/node-redis)  | Redis
